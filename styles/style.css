@@ -69,8 +69,12 @@
   z-index: 1;
 }
 
-.logo_place_header {
+.logo {
   width: 183px;
+  margin: 0;
+}
+
+.logo_place_header {
   height: 32px;
   position: absolute;
   top: 30px;
@@ -97,6 +101,7 @@
 }
 
 .two-columns__brief {
+  color: #2f80ed;
   margin: 0;
   width: 175px;
   font-size: 18px;
@@ -315,9 +320,7 @@
 }
 
 .logo_place_footer {
-  width: 183px;
   height: 35px;
-  margin: 0;
   background-image: url(../images/logo_place_footer.svg);
 }
 
