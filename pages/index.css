@@ -1,5 +1,5 @@
 /* Общие стили */
-@import url(../blocks/vendor/normalize.css);
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 /* Анимация вращения */
